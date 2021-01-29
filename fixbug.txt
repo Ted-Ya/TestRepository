@@ -1,1 +1,2 @@
 bug has been fixed
+using another way fix bug
